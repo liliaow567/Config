@@ -102,6 +102,7 @@ vscode-icons
             "%PDF%"
         ]
     },
+    "latex-workshop.latex.autoBuild.onSave.enabled": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "workbench.iconTheme": "vscode-icons",
     "extensions.ignoreRecommendations": true
